@@ -1,0 +1,55 @@
+- navigation:
+  - [1] link "About":
+    - /url: https://about.google/?fg=1&utm_source=google-IN&utm_medium=referral&utm_campaign=hp-header
+  - [2] link "Store":
+    - /url: https://store.google.com/IN?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-IN
+  - [3] link "Gmail":
+    - /url: https://mail.google.com/mail/&ogbl
+  - [4] link "Search for Images":
+    - /url: https://www.google.com/imghp?hl=en&ogbl
+    - text: Images
+  - [5] button "Google apps"
+  - [6] link "Sign in":
+    - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=futura_exp_og_so_72776762_e
+- link "Google's 28th birthday":
+  - [7] /url: /search?sca_esv=f9132ac85e259377&sxsrf=APpeQnvlbBfF5oVl3yPuPNf0JMR20iJK6g:1790519089193&q=Google%27s+birthday&oi=ddle&noiga=1&ct=462727561&hl=en-GB&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48QPQgE
+  - [8] img "Google's 28th birthday"
+- button "Share"
+- search:
+  - [9] combobox "Search"
+  - [10] button "Search by voice"
+  - [11] button "Search by image"
+  - [12] button "Google Search"
+  - [13] button "I'm Feeling Lucky"
+- text: "Google offered in:"
+- link "हिन्दी":
+  - [14] /url: https://www.google.com/setprefs?sig=0_rJRYoO4oH8QmVu5mevTvvAmzE3s%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48Q2ZgBCCg
+- link "বাংলা":
+  - [15] /url: https://www.google.com/setprefs?sig=0_rJRYoO4oH8QmVu5mevTvvAmzE3s%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48Q2ZgBCCk
+- link "తెలుగు":
+  - [16] /url: https://www.google.com/setprefs?sig=0_rJRYoO4oH8QmVu5mevTvvAmzE3s%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48Q2ZgBCCo
+- link "मराठी":
+  - [17] /url: https://www.google.com/setprefs?sig=0_rJRYoO4oH8QmVu5mevTvvAmzE3s%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48Q2ZgBCCs
+- link "தமிழ்":
+  - [18] /url: https://www.google.com/setprefs?sig=0_rJRYoO4oH8QmVu5mevTvvAmzE3s%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48Q2ZgBCCw
+- link "ગુજરાતી":
+  - [19] /url: https://www.google.com/setprefs?sig=0_rJRYoO4oH8QmVu5mevTvvAmzE3s%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48Q2ZgBCC0
+- link "ಕನ್ನಡ":
+  - [20] /url: https://www.google.com/setprefs?sig=0_rJRYoO4oH8QmVu5mevTvvAmzE3s%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48Q2ZgBCC4
+- link "മലയാളം":
+  - [21] /url: https://www.google.com/setprefs?sig=0_rJRYoO4oH8QmVu5mevTvvAmzE3s%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48Q2ZgBCC8
+- link "ਪੰਜਾਬੀ":
+  - [22] /url: https://www.google.com/setprefs?sig=0_rJRYoO4oH8QmVu5mevTvvAmzE3s%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwjc4pey-46XAxU-i68BHcPqH48Q2ZgBCDA
+- contentinfo:
+  - [23] text: India
+  - [24] link "Advertising":
+    - /url: https://www.google.com/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+  - [25] link "Business":
+    - /url: https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+  - [26] link "How Search works":
+    - /url: https://google.com/search/howsearchworks/?fg=1
+  - [27] link "Privacy":
+    - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+  - [28] link "Terms":
+    - /url: https://policies.google.com/terms?hl=en-IN&fg=1
+  - [29] button "Settings"

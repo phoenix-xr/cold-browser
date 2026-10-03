@@ -1,0 +1,20 @@
+[project]
+name = "agent-os"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "GetInLinePal", email = "anshyt7499@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "laya>=0.3.20",
+    "playwright>=1.63.0",
+]
+
+[project.scripts]
+agent-os = "agent_os:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
